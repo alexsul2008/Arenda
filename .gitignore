@@ -9,3 +9,6 @@ db.sqlite3-journal
 venv/
 .git/
 .idea/
+/Core/WordToPython/generated_docx.docx
+/tmp/
+/docs/
